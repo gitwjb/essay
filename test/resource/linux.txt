@@ -1,0 +1,36 @@
+1、装机 & raid
+uefi  bios 
+2、查看系统信息   uname, date ,who am i ,pwd  ,hostname
+文件管理  ll  vi   mkdir  mv   cat/more/less  chmod
+账户，组 配置,密码
+ /etc/passwd和/etc/shadow
+ useradd,groupadd  
+
+3、网卡 ，防火墙 配置
+/etc/sysconfig/network-scripts/ifcfg-eth0   
+/etc/sysconfig/iptables
+ifconfig  iptables
+
+4、进程管理
+ps  kill      
+
+5、磁盘管理，文件系统
+df  du    fdisk
+
+6、软件安装
+tar  unzip
+./
+sh
+yum
+curl
+get
+
+
+ln -s 文件 名  链接名
+
+环境变量  export  source
+/etc/profile
+/etc/bash.bashrc
+/etc/environment
+
+
