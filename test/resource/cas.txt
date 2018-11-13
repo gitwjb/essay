@@ -1,0 +1,54 @@
+http://localhost:8080/smartrix/
+
+https://10.1.17.140:8443/cas/login?service=http://localhost:8080/smartrix/shiro-cas
+
+//http://10.1.17.140/cas/login  (无意义:没有做出响应)
+
+http://localhost:8080/smartrix/shiro-cas?ticket=ST-61038-AdRIFeEY1fOV1OP4EgZG-cas01.example.org 
+
+http://10.1.17.140:8880/cas/serviceValidate?ticket=ST-61038-AdRIFeEY1fOV1OP4EgZG-cas01.example.org&service=http://localhost:8080/smartrix/shiro-cas
+
+http://localhost:8080/smartrix/
+
+
+http://localhost:8080/smartrix/mainframe 
+
+
+票据 内容  
+header   签名算法  (type, algorithm)
+payload  载荷 (sid,name,role)
+sinature 签名 (header+payload ,digest ,sinature)
+
+ 
+ 
+ 
+公钥，私钥   一定方式生成
+
+ 
+私钥加密，公钥解密。证明信息是私钥持有者发的。
+公钥加密，私钥解密。只有私钥可以查看信息。
+
+ 
+公钥解密， 假如公钥掉包。  一个假信息可能被接收
+私钥解密，假如知道私钥，可以冒充一个信息方，
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
