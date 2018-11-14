@@ -1,0 +1,7 @@
+##eclipse
+.settings
+
+##project
+/bin/
+/build/
+/lib/
