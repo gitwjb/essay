@@ -1,4 +1,6 @@
 ##eclipse
+.classpath
+.project
 
 ##project
 /target/
