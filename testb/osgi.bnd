@@ -1,0 +1,5 @@
+Bundle-SymbolicName: com.wjb.one.testb
+Private-Package: com.wjb.one.testb.*
+Export-Package: com.wjb.one.testb;${project.version},\
+ com.wjb.one.testb.test.*;${project.version}
+Bundle-Level: 20
