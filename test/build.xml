@@ -22,7 +22,7 @@
     <property name="build.dir" value="${basedir}/build" />
     <property name="src.dir" value="${basedir}/src" />
     
-    <property name="ivy.home" value="D:/repository_ivy"/>
+    <property name="ivy.home" value="${basedir}/settings"/>
     <property name="ivy.settings.file" value="${ivy.home}/ivysettings.xml"/>
     
     <!-- paths used for compilation and run  -->
