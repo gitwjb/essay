@@ -1,4 +1,4 @@
-package numtest;
+package com.wjb.one.testb.enumtest;
 
 public class Test {
 	public static void main(String[] args) {

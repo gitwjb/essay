@@ -1,6 +1,4 @@
-package protect;
-
-import protect.TestProtect;
+package com.wjb.one.testb.protect;
 
 public class SunProtectIn extends TestProtect{
 	

@@ -1,4 +1,4 @@
-package com.wjb.project;
+package com.wjb.one.testb.project;
 
 import java.math.BigInteger;  
 import java.util.Date;  

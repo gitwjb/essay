@@ -3,7 +3,7 @@ package com.wjb.one.testb.internal;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.wjb.one.testb.test.First;
+import test.First;
 
 public class InternalClazz {
 	public static Logger logger = LoggerFactory.getLogger(First.class);

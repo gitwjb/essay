@@ -1,4 +1,4 @@
-package com.wjb;
+package com.wjb.one.testb;
 
 public class Profile {
 	/**

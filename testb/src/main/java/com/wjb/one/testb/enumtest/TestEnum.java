@@ -1,4 +1,4 @@
-package numtest;
+package com.wjb.one.testb.enumtest;
 
 import java.util.Locale;
 

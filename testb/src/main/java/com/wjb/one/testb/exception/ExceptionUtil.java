@@ -1,4 +1,4 @@
-package com.wjb.exception;
+package com.wjb.one.testb.exception;
 
 public class ExceptionUtil {
 	public static ExceptionInfo processExcepiton(Exception ex) {

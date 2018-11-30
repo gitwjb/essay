@@ -1,6 +1,6 @@
-package protectsub;
+package com.wjb.one.testb.subprotect;
 
-import protect.TestProtect;
+import com.wjb.one.testb.protect.TestProtect;
 
 public class SunProtectOut extends TestProtect{
 	

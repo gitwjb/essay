@@ -1,4 +1,4 @@
-package com.wjb.collection;
+package com.wjb.one.testb.collection;
 
 import java.util.ArrayList;
 import java.util.Arrays;

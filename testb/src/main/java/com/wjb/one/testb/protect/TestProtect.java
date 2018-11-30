@@ -1,4 +1,4 @@
-package protect;
+package com.wjb.one.testb.protect;
 
 public class TestProtect {
 	private String name = "TestProtect";

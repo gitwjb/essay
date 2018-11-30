@@ -1,4 +1,4 @@
-package com.wjb.exception;
+package com.wjb.one.testb.exception;
 
 public class MyException extends Exception{
 
