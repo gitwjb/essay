@@ -13,3 +13,6 @@ Created on 2018年12月25日
 
 print "hello World...."
 
+print("为什么 我的眼中饱含泪水，因为我对这片土地爱得深沉.")
+
+print("I love you.")
